@@ -39,7 +39,7 @@ Developed by: Naramala Niharika
 RegisterNumber:  212221240031
 ```
 ## HALF SUBTRACTOR
-
+```
 module HalfSubtractor(A,B,Diff,Borrow);
 input A,B;
 output Diff,Borrow;
@@ -48,9 +48,9 @@ xor (Diff, A,B);
 not(x,A);
 and(Borrow,x,B);
 endmodule
-
+```
 ## FULL SUBTRACTOR
-
+```
 module FullSubtractor(A,B,C,Diff,Borrow);
 input A,B,C;
 output Diff,Borrow;
@@ -59,7 +59,7 @@ assign Diff = ((A^B)^C);
 not(p,A);
 assign Borrow = ((p&B)|(p&C)|(B&C));
 endmodule
-
+```
 ## Output:
 ## Half subtractor:
 
