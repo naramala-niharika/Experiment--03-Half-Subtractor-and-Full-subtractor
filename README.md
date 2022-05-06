@@ -64,30 +64,30 @@ endmodule
 ## Half subtractor:
 
 ## Logical symbol:
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b1.PNG?raw=true)
 
 ## Truthtable:
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b2.PNG?raw=true)
 
 ##  RTL realization:
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b3.PNG?raw=true)
 
 ## Timing diagram :
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b4.PNG?raw=true)
 
 ## Full subtractor:
 
 ## Logical symbol:
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b5.PNG?raw=true)
 
 ## Truthtable:
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b6.PNG?raw=true)
 
 ##  RTL realization:
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b7.PNG?raw=true)
 
 ## Timing diagram :
-![Output(?raw=true)
+![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b8.PNG?raw=true)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
