@@ -78,7 +78,7 @@ endmodule
 ## Full subtractor:
 
 ## Logical symbol:
-![Output(https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b5.PNG?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b5.PNG?raw=true)
 
 ## Truthtable:
 ![Output](https://github.com/naramala-niharika/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/b6.PNG?raw=true)
